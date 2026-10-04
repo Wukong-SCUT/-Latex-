@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎓 华南理工大学研究生开题报告与文献综述
+# 🎓 华南理工大学（SCUT）研究生开题报告与文献综述 LaTeX 模板
 
-### LaTeX 模板 · 2026 版
+### South China University of Technology · Graduate Research Proposal & Literature Review · 2026
 
 **⭐ 如果这个模板帮你省下了排版时间，欢迎点击右上角 Star 支持一下！**
 
@@ -26,7 +26,7 @@
 
 ## 📦 模板下载
 
-本仓库分享华南理工大学研究生开题报告与文献综述的 LaTeX 排版工程，方便在现有框架上填写个人信息、撰写正文和调整格式。
+本仓库分享华南理工大学（South China University of Technology，SCUT）研究生学位论文开题报告与文献综述的 2026 版 LaTeX 模板，支持 XeLaTeX 编译，可在 Overleaf 或 TeXPage 中使用，方便在现有框架上填写个人信息、撰写正文和调整格式。
 
 | 模板 | 下载文件 | 主文件 | 主要填写位置 |
 | :--- | :--- | :--- | :--- |
